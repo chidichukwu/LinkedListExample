@@ -3,7 +3,8 @@
 #include "MyList.h"
 
 using namespace std;
-//chidi
+
+//Name: Chidinma Chukwu Student No:202003295
 void Init (List& L)
 { L = NULL; } // L points to  nothing;}
 
