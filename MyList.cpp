@@ -3,7 +3,7 @@
 #include "MyList.h"
 
 using namespace std;
-
+//chidi
 void Init (List& L)
 { L = NULL; } // L points to  nothing;}
 
